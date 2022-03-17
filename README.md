@@ -1,6 +1,8 @@
 # node-ipc-dependencies-list
-List of all dependencies affected by node-ipc malicious commit
-Please improve upon this, it's a one time thing i've done on a whim
+
+- List of all dependencies affected by node-ipc malicious commit
+- Please improve upon this, it's a one time thing i've done on a whim
+- Use ctrl+F to search
 
 # Page 1
 
