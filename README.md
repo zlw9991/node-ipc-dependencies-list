@@ -34,6 +34,7 @@ Credits to:
 List of scraped dependents:
 [Click_here](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper)
 
+The list here ^ is for github's list of dependents for node-ipc, the list below (page 1, 2 ,3 etc) is based on the npmjs website
 
 # Page 1
 
