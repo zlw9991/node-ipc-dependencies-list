@@ -16,6 +16,8 @@ Credits to:
  - [Stackoverflow question](https://stackoverflow.com/questions/58734176/how-to-use-github-api-to-get-a-repositorys-dependents-information-in-github)
 # List of scraped dependents:
 
+I set this to scrape 100 pages, but i'm not sure if there may be more.
+
 ```
 
 GET https://github.com/expressjs/express/network/dependents
