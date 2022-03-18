@@ -8,6 +8,29 @@
 - ripped from: https://www.npmjs.com/package/node-ipc
 - note: this is not a list of all *software* affected by node-ipc, that list might be exponentially larger, someoner smarter and more skilled than me should go find out how exactly to map this all out
 - feel free to suggest any more links
+- I have been accidentally using dependent & dependency interchangeably, my bad
+
+# Python scraping tool for dependents on github
+
+The script to scrape dependents off github repos is based on code from the following:
+
+Credits to:
+## 1. Bertrand Martel
+ - [Stackoverflow](https://stackoverflow.com/users/2614364/bertrand-martel)
+ - [Github](https://github.com/bertrandmartel)
+ - [Replit script portion](https://replit.com/@bertrandmartel/github-dependents-repo)
+
+## 2. oneturkmen
+ - [Stackoverflow](https://stackoverflow.com/users/5423850/oneturkmen)
+ - [Github](https://github.com/oneturkmen)
+
+## Reference list
+ - [Replit script portion](https://replit.com/@bertrandmartel/github-dependents-repo)
+ - [Stackoverflow question](https://stackoverflow.com/questions/58734176/how-to-use-github-api-to-get-a-repositorys-dependents-information-in-github)
+
+# Scraped Page
+
+[Click_here]()
 
 
 # Page 1
