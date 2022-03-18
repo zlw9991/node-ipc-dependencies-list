@@ -21,27 +21,9 @@
  - [Github find-node-dependents Script](https://github.com/bernardgut/find-node-dependents)
 
 
-# My python scraping tool for dependents on github
+### My python scraping tool for dependents on github
 
-The [script](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper) to scrape dependents off github repos is based on combining code from the following:
-
-Credits to:
-## 1. Bertrand Martel
- - [Stackoverflow](https://stackoverflow.com/users/2614364/bertrand-martel)
- - [Github](https://github.com/bertrandmartel)
- - [Replit script portion](https://replit.com/@bertrandmartel/github-dependents-repo)
-
-## 2. oneturkmen
- - [Stackoverflow](https://stackoverflow.com/users/5423850/oneturkmen)
- - [Github](https://github.com/oneturkmen)
-
-## Reference list
- - [Replit script portion](https://replit.com/@bertrandmartel/github-dependents-repo)
- - [Stackoverflow question](https://stackoverflow.com/questions/58734176/how-to-use-github-api-to-get-a-repositorys-dependents-information-in-github)
-
-# Scraped Page
-
-List of scraped dependents:
+List of scraped dependents (Script used and credits / reference in the link aswell):
 [Click_here](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper)
 
 The list here ^ is for github's list of dependents for node-ipc, the list below (page 1, 2 ,3 etc) is based on the npmjs website
