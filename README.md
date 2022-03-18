@@ -20,15 +20,15 @@
  - [Github Profile](https://github.com/bernardgut)
  - [Github find-node-dependents Script](https://github.com/bernardgut/find-node-dependents)
 
+Bernard's Script seems to be the best i've seen, please use it on your own end to verify for yourself the list of packages dependent on node-ipc
 
-### My python scraping tool for dependents on github
+### My python scraping tool to find all github repos that depend on node-ipc
 
 List of scraped dependents (Script used and credits / reference in the link aswell):
 [Click_here](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper)
 
-The list here ^ is for github's list of dependents for node-ipc, the list below (page 1, 2 ,3 etc) is based on the npmjs website
-
-Bernard's Script seems to be the best i've seen, please use it on your own end to verify for yourself the list of packages dependent on node-ipc
+The list here ^ is for github's list of repos dependent on node-ipc, the list below (page 1, 2 ,3 etc) is based on the npmjs website
+The List above includes personal repos.
 
 # Page 1
 
