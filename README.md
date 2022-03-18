@@ -8,9 +8,20 @@
 - ripped from: https://www.npmjs.com/package/node-ipc
 - note: this is not a list of all *software* affected by node-ipc, that list might be exponentially larger, someoner smarter and more skilled than me should go find out how exactly to map this all out
 - feel free to suggest any more links
+- I'm currently a year 1 semester 2 CS student, so I'm sorta busy, i'll periodically check up & update on this on sunday GMT +8 timezone. So please fork / clone this if im being too slow haha XD
+
+# List of contributions:
+
+## Aaron Dewes Node-IPC Fork:
+ - [Github Profile](https://github.com/AaronDewes)
+ - [Github Node-IPC Fork Link)(https://github.com/node-ipc/node-ipc)
+
+## Bernard Gütermann Script to Recursivelty find the CURRENT node-ipc dependents:
+ - [Github Profile](https://github.com/bernardgut)
+ - [Github find-node-dependents Script](https://github.com/bernardgut/find-node-dependents)
 
 
-# Python scraping tool for dependents on github
+# My python scraping tool for dependents on github
 
 The [script](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper) to scrape dependents off github repos is based on combining code from the following:
 
