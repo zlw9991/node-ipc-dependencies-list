@@ -10,7 +10,7 @@
 - feel free to suggest any more links
 
 # I have been accidentally using dependent & dependency interchangeably, my bad, watch this fun video as an apology
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8LnhOWkniX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8LnhOWkniX4/0.jpg)](https://www.youtube.com/watch?v=8LnhOWkniX4)
 
 # Python scraping tool for dependents on github
 
