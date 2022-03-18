@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 repo = "expressjs/express"
 page_num = 100
-url = 'https://github.com/{}/network/dependents'.format(repo)
+url = 'https://github.com/RIAEvangelist/node-ipc/network/dependents'.format(repo) ### edit this link to the github dependent repo you want to scrape!
 
 for i in range(page_num):
     print("GET " + url)
