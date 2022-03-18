@@ -13,7 +13,7 @@
 
 # Python scraping tool for dependents on github
 
-The [script](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/scrapescriptfolder) to scrape dependents off github repos is based on code from the following:
+The [script](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper) to scrape dependents off github repos is based on code from the following:
 
 Credits to:
 ## 1. Bertrand Martel
@@ -32,7 +32,7 @@ Credits to:
 # Scraped Page
 
 List of scraped dependents:
-[Click_here](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/scrapescriptfolder)
+[Click_here](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper)
 
 
 # Page 1
