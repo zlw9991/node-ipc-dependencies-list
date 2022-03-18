@@ -1,5 +1,5 @@
 # Credits & Reference for the Script
-The [script](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/scrapescriptfolder) to scrape dependents off github repos is based on code from the following:
+The [script](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/scrapescriptfolder) to scrape dependents off github repos is based on combinging code from the following:
 
 Credits to:
 ## 1. Bertrand Martel
