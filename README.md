@@ -9,7 +9,8 @@
 - note: this is not a list of all *software* affected by node-ipc, that list might be exponentially larger, someoner smarter and more skilled than me should go find out how exactly to map this all out
 - feel free to suggest any more links
 
-# I have been accidentally using dependent & dependency interchangeably, my bad
+# I have been accidentally using dependent & dependency interchangeably, my bad, watch this fun video as an apology
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8LnhOWkniX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Python scraping tool for dependents on github
 
