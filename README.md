@@ -27,7 +27,7 @@ Bernard's Script seems to be the best i've seen, please use it on your own end t
 List of scraped dependents (Script used and credits / reference in the link aswell):
 [Click_here](https://github.com/zlw9991/node-ipc-dependencies-list/tree/main/github-dependent-scraper)
 
-The list here ^ is for github's list of repos dependent on node-ipc, the list below (page 1, 2 ,3 etc) is based on the npmjs website
+The list here ^ is for github's list of repos dependent on node-ipc, the list below (page 1, 2 ,3 etc) is based on the npmjs website.
 The List above includes personal repos.
 
 # Page 1
