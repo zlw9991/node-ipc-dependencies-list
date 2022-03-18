@@ -6,6 +6,8 @@
 - Please improve upon this, it's a one time thing i've done on a whim
 - Use ctrl+F to search
 - ripped from: https://www.npmjs.com/package/node-ipc
+- note: this is not a list of all *software* affected by node-ipc, that list might be exponentially larger, someoner smarter and more skilled than me should go find out how exactly to map this all out
+- feel free to suggest any more links
 
 
 # Page 1
