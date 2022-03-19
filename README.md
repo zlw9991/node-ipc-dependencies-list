@@ -16,6 +16,10 @@
  - [Github Profile](https://github.com/AaronDewes)
  - [Github Node-IPC Fork Link](https://github.com/node-ipc/node-ipc)
 
+## Rifa Achrinza Drop-in Node-IPC Fork:
+ - [Github Profile](https://github.com/achrinza)
+ - [Github Drop-in Node-IPC Fork Link](https://github.com/achrinza/node-ipc)
+
 ## Bernard Gütermann Script to Recursivelty find the CURRENT node-ipc dependents:
  - [Github Profile](https://github.com/bernardgut)
  - [Github find-node-dependents Script](https://github.com/bernardgut/find-node-dependents)
