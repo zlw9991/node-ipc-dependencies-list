@@ -6,7 +6,7 @@
 - Please improve upon this, it's a one time thing i've done on a whim
 - Use ctrl+F to search
 - ripped from: https://www.npmjs.com/package/node-ipc
-- note: this is not a list of all *software* affected by node-ipc, that list might be exponentially larger, someoner smarter and more skilled than me should go find out how exactly to map this all out
+- note: this is not a list of all *software* affected by node-ipc, that list might be exponentially larger, someone smarter and more skilled than me should go find out how exactly to map this all out
 - feel free to suggest any more links
 - I'm currently a year 1 semester 2 CS student, so I'm sorta busy, i'll periodically check up & update this every sunday GMT +8 timezone. So please fork / clone this if im being too slow haha XD
 
@@ -25,6 +25,23 @@
  - [Github find-node-dependents Script](https://github.com/bernardgut/find-node-dependents)
 
 Bernard's Script seems to be the best i've seen, please use it on your own end to verify for yourself the list of packages dependent on node-ipc
+
+## Ferdinand Prantl's npm commands to find affected modules:
+ - [Github Profile](https://github.com/prantlf)
+
+Look for all modules in the local node_modules directory, which were known to contain malware:
+
+```
+npm ls --json peacenotwar | npx jq ".dependencies | keys? | unique | .[]"
+npm ls --json node-ipc | npx jq ".dependencies | keys? | unique | .[]"
+```
+
+Look for all modules in the local node_modules directory, which were written by the same author or published in his GitHub repositories:
+
+```
+npx find-npm-by-author -A "Brandon Nozaki Mille" -R riaevangelist
+```
+
 
 ### My python scraping tool to find all github repos that depend on node-ipc
 
