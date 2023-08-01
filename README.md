@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/zlw9991/node-ipc-dependencies-list/blob/main/6939jy.jpg)
 
-- List of all dependencies affected by node-ipc malicious commit as of 17/3/2022 - 19/3/2022 (timestamp)
+- List of all NPM packages & Github Repos affected by node-ipc malicious commit as of 17/3/2022 - 19/3/2022 (timestamp)
 - Please improve upon this, it's a one time thing i've done on a whim
 - Use ctrl+F to search
 - ripped from: https://www.npmjs.com/package/node-ipc
